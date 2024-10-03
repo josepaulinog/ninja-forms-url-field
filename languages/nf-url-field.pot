@@ -1,0 +1,43 @@
+# Copyright (C) 2023 José Paulino
+# This file is distributed under the same license as the URL Field for Ninja Forms plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: URL Field for Ninja Forms 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ninja-forms-url-field\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-15T12:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: nf-url-field\n"
+
+#. Plugin Name of the plugin
+msgid "URL Field for Ninja Forms"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.josepaulino.com/ninja-forms-url-field"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds a \"URL Field\" field type for Ninja Forms with improved validation."
+msgstr ""
+
+#. Author of the plugin
+msgid "José Paulino"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.josepaulino.com"
+msgstr ""
+
+#: includes/class-nf-url-field.php:15
+msgid "URL Field"
+msgstr ""
+
+#: includes/class-nf-url-field.php:33
+msgid "Please enter a valid URL."
+msgstr ""

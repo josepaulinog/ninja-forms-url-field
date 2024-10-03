@@ -1,0 +1,16 @@
+<script id="tmpl-nf-field-url" type="text/template">
+    <input
+        id="nf-field-{{{ data.id }}}"
+        name="nf-field-{{{ data.id }}}"
+        aria-invalid="false"
+        aria-describedby="nf-error-{{{ data.id }}}"
+        class="{{{ data.renderClasses() }}} nf-element"
+        type="url"
+        value="{{{ data.value }}}"
+        {{{ data.renderPlaceholder() }}}
+        {{{ data.maybeDisabled() }}}
+        {{{ data.maybeInputLimit() }}}
+        {{{ data.maybeDisableAutocomplete() }}}
+        {{{ data.maybeRequired() }}}
+    >
+</script>
